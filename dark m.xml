@@ -7,20 +7,29 @@
         <tmdb>list/https://www.themoviedb.org/list/97791</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
-</dir>  
+</dir>
+
+  <dir>
+        <title>New My Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/119301</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
 <dir>
 <title>Movie Years</title>
 <link>https://raw.githubusercontent.com/darkson18/dark/master/movie-years.xml</link>
 </dir>
+
 <dir>
-   <title>Dc & Marval</title>
-   <link>https://raw.githubusercontent.com/darkson18/dark/master/Dc%26 Marval.xml</link>
+   <title>Dc</title>
+   <link>https://raw.githubusercontent.com/darkson18/dark/master/Dc%20.xml</link>
 </dir>
 
 <dir>
    <title>Beast</title>
    <link>https://raw.githubusercontent.com/darkseid12/new/master/t%20beast.xml</link>
 </dir>
+
 <dir>
    <title>criminal</title>
    <link>https://raw.githubusercontent.com/darkson18/dark/master/criminal.xml</link>
